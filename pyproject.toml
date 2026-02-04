@@ -1,0 +1,18 @@
+[project]
+name = "mr"
+description = "Just resender from Max to Telegram."
+
+version = "0.0.0"
+requires-python = ">=3.14"
+dependences = []
+
+authors = [
+    {name = "Michael Rasskazov", email = "mrskzv239@gmail.com"},
+]
+maintainers = [
+    {name = "Michael Rasskazov", email = "mrskzv239@gmail.com"},
+]
+
+readme = "README.md"
+license = "MIT"
+
