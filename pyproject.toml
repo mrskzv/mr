@@ -15,4 +15,8 @@ maintainers = [
 
 readme = "README.md"
 license = "MIT"
+dependencies = [
+    "aiogram>=3.24.0",
+    "maxbridge>=1.8.0",
+]
 
